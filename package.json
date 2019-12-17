@@ -1,0 +1,22 @@
+{
+  "name": "webpack-feature-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lnwu/webpack-feature-test.git",
+  "author": "lnwu <wind2729@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.18",
+    "@types/webpack": "^4.41.0",
+    "@types/webpack-dev-server": "^3.9.0",
+    "bundle-stats": "^1.15.2",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.3",
+    "webpack": "^4.41.3",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
